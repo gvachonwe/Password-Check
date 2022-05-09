@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cmath>
 #include <string>
 #include <conio.h>
 #include <cstdlib>
